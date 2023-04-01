@@ -15,5 +15,5 @@ Steps for using:
 2. python -m venv venv
 3. source : - venv/bin/activate 
 4. pip install -r requirements.txt
-  To set environment variables
-5. python parse.py
+5.To set environment variables
+6. python parse.py
