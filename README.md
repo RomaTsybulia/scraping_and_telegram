@@ -13,7 +13,7 @@ Libraries used:
 Steps for using:
 1. git clone
 2. python -m venv venv
-3. source : - venv/bin/activate 
+3. source : - venv/bin/activate
 4. pip install -r requirements.txt
 5.To set environment variables
 6. python parse.py
